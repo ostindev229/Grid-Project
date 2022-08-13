@@ -8,6 +8,9 @@
 	margin: 0px auto;
 	margin-top: 30px;
 }
+*{
+	box-sizing: border-box;
+}
 .col1{
 	background-color: black;
 }
@@ -21,6 +24,7 @@
 	text-align: center;
 	margin-top: 105px;
 	font-family: Arial black;
+	font-size: 15px;
 }
 body{
 	background-color: white;
@@ -56,5 +60,12 @@ body{
 	}
 	.design{
 		margin-top: 70px;
+	}
+	.bloc{
+		margin:0px auto;
+		margin-top:75px;
+	}
+	.blocus{
+		height: 100%;
 	}
 }
